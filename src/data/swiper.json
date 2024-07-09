@@ -1,0 +1,21 @@
+[
+   {
+    "textnm" :"할인",
+    "ex" :"이달의 혜택을 놓치지마세요.",
+    "href" : "http://www.naver.com",
+    "img" : "/zzz.jpeg"
+
+   } ,
+   {
+    "textnm" :"이벤트",
+    "ex" :"이달의 혜택을 놓치지마세요.",
+    "href" : "http://www.daum.net",
+    "img" : "/zzz.jpeg"
+    } ,
+   {
+    "textnm" :"멤버쉽",
+    "ex" :"구독신청",
+    "href" : "http://www.google.com",
+    "img" : "/zzz.jpeg"
+   }
+]
